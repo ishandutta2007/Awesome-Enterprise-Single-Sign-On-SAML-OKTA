@@ -1,6 +1,6 @@
 # Awesome-Enterprise-Single-Sign-On-SAML-OKTA
 
-# Top Enterprise Single Sign-On (SAML/Okta) Ecosystem
+## Top Enterprise Single Sign-On (SAML/Okta) Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on SAML Federation, OIDC Providers & Self-Hosted Identity Platforms*  
