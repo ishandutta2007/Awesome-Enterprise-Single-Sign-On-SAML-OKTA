@@ -74,9 +74,9 @@ Open-source identity platforms allow organizations to maintain strict data sover
 
 ### ⭐ Featured Category Leaders
 
-*Ranked by GitHub Star Count (descending).*
+*Ranked by GitHub Stars_Count (descending).*
 
-| Project | Star Badge | Language / Stack | License | Core Capabilities & Highlights |
+| Project | Stars_Badge | Language / Stack | License | Core Capabilities & Highlights |
 |:---|:---:|:---:|:---:|:---|
 | **[Keycloak](https://github.com/keycloak/keycloak)** | [![Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) | Java / Quarkus | Apache-2.0 | **The most widely deployed open-source SSO benchmark.** CNCF-incubated project with enterprise-grade multi-tenancy realms, SAML 2.0, OIDC, SCIM 2.0 server capabilities, LDAP/AD federation, and an extensive Java SPI extension system. |
 | **[Authelia](https://github.com/authelia/authelia)** | [![Stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers) | Go | Apache-2.0 | **Lightweight authentication and authorization proxy.** Provides two-factor authentication (2FA) and single sign-on companion proxy for Traefik, Nginx, Caddy, and Envoy with minimal overhead. |
@@ -93,9 +93,9 @@ Open-source identity platforms allow organizations to maintain strict data sover
 
 ### 🛠️ Additional Mature Open-Source Engines & Libraries
 
-*Ranked by GitHub Star Count (descending).*
+*Ranked by GitHub Stars_Count (descending).*
 
-| Project | Star Badge | Stack | Description |
+| Project | Stars_Badge | Stack | Description |
 |:---|:---:|:---:|:---|
 | **[Kanidm](https://github.com/kanidm/kanidm)** | [![Stars](https://img.shields.io/github/stars/kanidm/kanidm?style=social&color=white)](https://github.com/kanidm/kanidm/stargazers) | Rust | Fast, modern identity management and directory server supporting RADIUS, OAuth2/OIDC, and WebAuthn. |
 | **[BoxyHQ SAML Jackson](https://github.com/boxyhq/jackson)** | [![Stars](https://img.shields.io/github/stars/boxyhq/jackson?style=social&color=white)](https://github.com/boxyhq/jackson/stargazers) | TypeScript | SAML SSO & SCIM service that transforms complex SAML/OIDC enterprise federation into standard OAuth 2.0 flows. |
